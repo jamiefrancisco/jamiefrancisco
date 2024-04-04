@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning TypeScript and NextJS.
 - 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about React/JavaScript/HTML/CSS.
-- 📫 How to reach me: 0jamiefrancisco@gmail.com
+- 📫 How to reach me: 0jamiefrancisco@gmail.com | https://www.linkedin.com/in/jamiefrancisco/
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I used to play poker professionally!
 
