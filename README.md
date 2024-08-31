@@ -15,7 +15,6 @@
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
 - 🌱 I’m currently learning TypeScript and NextJS.
-- 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about React/JavaScript/HTML/CSS.
 - 📫 How to reach me: 0jamiefrancisco@gmail.com | https://www.linkedin.com/in/jamiefrancisco/
 - 😄 Pronouns: He/Him/His
