@@ -1,22 +1,25 @@
 ## I'm Jamie — hey! Thanks for stopping by 👋
 
-I’m a software engineer who’s aiming for a **Product Support Engineer / Support Engineer** role. I like the intersection of **customer communication + debugging + building small tools/docs that reduce repeat issues**.
+I’m a software engineer exploring roles where **communication, product sense, and technical curiosity** matter more than a single job title. I’m especially interested in **Support Engineering, Product Support, Customer Success, and Sales Development** — the through-line is helping people understand something clearly and moving the conversation forward.
 
-Right now I’m building **Seen** — a support-styled application page (chat thread + help center + quick actions) with a dashboard layer behind it. It’s my way of practicing the kind of UI and workflow I want to work in every day.
+Right now I’m building **Seen** — an application portfolio page (chat, help center, quick actions) with a dashboard behind it. I use it to show how I think about **customer-facing workflows**: triaging questions, surfacing the right context, and making complex products easier to navigate.
 
 ---
 
-### What I'm looking for
-- **Support Engineer / Product Support Engineer** roles (especially at startups)
-- Teams where Support partners closely with **Engineering + Product**
+### The roles I'm aiming for
+- **Product Support**
+- **Customer Success** where you partner closely with customers on adoption and outcomes
+- **Sales Development** where research, credibility, and concise outreach matter
+- Teams where frontline roles partner closely with **Engineering + Product**
 - Work that mixes **investigation + communication + building improvements** (docs, tooling, workflow fixes)
 
 ---
 
 ### What I’m building / learning
 - **TypeScript + Next.js** (shipping real features, not just tutorials)
-- Support-coded UI patterns: **chat widgets, help centers, queues, macros**
-- Debugging and ops fundamentals: **repro steps, evidence bundles, clear escalation handoffs**
+- Customer-facing UI patterns: **chat widgets, help centers, queues, macros**
+- Support and sales motions: **clear handoffs, evidence bundles, structured replies**
+- Debugging fundamentals: **repro steps, root-cause thinking, escalation notes engineers can actually use**
 
 ---
 
@@ -35,15 +38,7 @@ Right now I’m building **Seen** — a support-styled application page (chat th
 
 ### About me (quick)
 - 🛠️ Turing School of Software & Design alum
-- 🎯 Former poker player + former SaaS sales (I genuinely like high-signal communication and decision-making under uncertainty)
-- 💬 I enjoy customer-facing problem solving and writing clear explanations
+- 🎯 Former poker player + former SaaS sales (I like high-signal communication and decision-making under uncertainty)
+- 💬 Comfortable on the customer side: explaining, troubleshooting, and writing clearly
 - 📫 Reach me: 0jamiefrancisco@gmail.com | https://www.linkedin.com/in/jamiefrancisco/
 - 😄 Pronouns: He/Him
-
----
-
-### A good convo starter
-If you’re in Support/Support Eng, I’m always curious:
-- what your top repeat issue categories are
-- what makes an escalation “great” for your engineers
-- what you wish Support had shipped earlier (tooling/docs/process)
