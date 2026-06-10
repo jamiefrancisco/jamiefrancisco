@@ -1,25 +1,24 @@
-## I'm Jamie — hey! Thanks for stopping by 👋
+## Hey, I'm Jamie 👋
 
-I’m a software engineer exploring roles where **communication, product sense, and technical curiosity** matter more than a single job title. I’m especially interested in **Support Engineering, Product Support, Customer Success, and Sales Development** — the through-line is helping people understand something clearly and moving the conversation forward.
+I'm a software engineer who likes customer-facing work — explaining things clearly, digging into problems, and building small fixes so the same question doesn't come back.
 
-Right now I’m building **Seen** — an application portfolio page (chat, help center, quick actions) with a dashboard behind it. I use it to show how I think about **customer-facing workflows**: triaging questions, surfacing the right context, and making complex products easier to navigate.
-
----
-
-### The roles I'm aiming for
-- **Product Support**
-- **Customer Success** where you partner closely with customers on adoption and outcomes
-- **Sales Development** where research, credibility, and concise outreach matter
-- Teams where frontline roles partner closely with **Engineering + Product**
-- Work that mixes **investigation + communication + building improvements** (docs, tooling, workflow fixes)
+I'm building **Seen**: an application page with a chat thread, help center, and quick actions, plus a dashboard behind it. It's how I practice the kind of work I want to do — triaging questions, surfacing the right context, and making a product easier to navigate.
 
 ---
 
-### What I’m building / learning
-- **TypeScript + Next.js** (shipping real features, not just tutorials)
-- Customer-facing UI patterns: **chat widgets, help centers, queues, macros**
-- Support and sales motions: **clear handoffs, evidence bundles, structured replies**
-- Debugging fundamentals: **repro steps, root-cause thinking, escalation notes engineers can actually use**
+### Roles I'm after
+- Product Support / Support Engineering
+- Customer Success (adoption and outcomes, not just check-ins)
+- Sales Development (research and concise outreach)
+
+I'm most interested in teams where these roles work closely with Engineering and Product, and where part of the job is building improvements — docs, tooling, workflow fixes — not just answering tickets.
+
+---
+
+### What I work with
+- TypeScript + Next.js (real features, not tutorials)
+- Customer-facing UI: chat widgets, help centers, queues, macros
+- Debugging basics: repro steps, root-cause, handoffs engineers can actually use
 
 ---
 
@@ -36,9 +35,8 @@ Right now I’m building **Seen** — an application portfolio page (chat, help 
 
 ---
 
-### About me (quick)
-- 🛠️ Turing School of Software & Design alum
-- 🎯 Former poker player + former SaaS sales (I like high-signal communication and decision-making under uncertainty)
-- 💬 Comfortable on the customer side: explaining, troubleshooting, and writing clearly
-- 📫 Reach me: 0jamiefrancisco@gmail.com | https://www.linkedin.com/in/jamiefrancisco/
-- 😄 Pronouns: He/Him
+### A bit about me
+- Turing School of Software & Design alum
+- Former poker player and SaaS sales — I'm used to making calls with incomplete info
+- I like talking to people and writing things out plainly
+- 📫 0jamiefrancisco@gmail.com · https://www.linkedin.com/in/jamiefrancisco/
